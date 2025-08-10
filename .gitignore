@@ -1,0 +1,6 @@
+.env
+telegram_bot.db
+.venv
+.idea
+.ruff_cache
+__pycache__
